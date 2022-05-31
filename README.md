@@ -108,7 +108,7 @@ public/index.html:
 const MutationObserver = window.MutationObserver || window.WebKitMutationObserver || window.MozMutationObserver;
 ```
 
-3.watermark.js文件中`loadMark()`函数添加一代代码：
+3.watermark.js文件中`loadMark()`函数添加一行代码：
 
 ```js
 mask_div.style['word-break'] = "break-all";
