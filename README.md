@@ -1,7 +1,3 @@
----
-theme: juejin
-highlight: a11y-dark
----
 ### 介绍
 **前景：** app页面添加水印展示 \
 **技术实现：**[watermark-dom](https://github.com/saucxs/watermark-dom)<br />
